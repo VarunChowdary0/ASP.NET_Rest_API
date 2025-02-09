@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MySqlEFWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd06e9e57ba107366b7ec07cba3db81bc55e01bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("MySqlEFWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MySqlEFWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

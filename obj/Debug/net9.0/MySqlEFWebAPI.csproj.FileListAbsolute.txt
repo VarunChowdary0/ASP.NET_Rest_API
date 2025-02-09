@@ -106,3 +106,4 @@ C:\PROGRAMS\DOTNET\Projects\ASP_DOTNET\MySqlEFWebAPI\obj\Debug\net9.0\refint\MyS
 C:\PROGRAMS\DOTNET\Projects\ASP_DOTNET\MySqlEFWebAPI\obj\Debug\net9.0\MySqlEFWebAPI.pdb
 C:\PROGRAMS\DOTNET\Projects\ASP_DOTNET\MySqlEFWebAPI\obj\Debug\net9.0\MySqlEFWebAPI.genruntimeconfig.cache
 C:\PROGRAMS\DOTNET\Projects\ASP_DOTNET\MySqlEFWebAPI\obj\Debug\net9.0\ref\MySqlEFWebAPI.dll
+C:\PROGRAMS\DOTNET\Projects\ASP_DOTNET\MySqlEFWebAPI\obj\Debug\net9.0\MySqlEFWebAPI.sourcelink.json
