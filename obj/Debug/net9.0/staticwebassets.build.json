@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yDCn23WOqV1esIPBCaYPjfNaamB7kVeiCRTUH32KZJg=",
+  "Source": "MySqlEFWebAPI",
+  "BasePath": "_content/MySqlEFWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

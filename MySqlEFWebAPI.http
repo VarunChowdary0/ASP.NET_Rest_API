@@ -1,0 +1,6 @@
+@MySqlEFWebAPI_HostAddress = http://localhost:5013
+
+GET {{MySqlEFWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
